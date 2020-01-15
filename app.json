@@ -1,4 +1,15 @@
 {
-  "name": "chat",
-  "displayName": "chat"
+  "expo": {
+    "name": "chat",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "chat",
+    "sdkVersion": "33.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.chat"
+    },
+    "android": {
+      "package": "com.yourcompany.chat"
+    }
+   }
 }
